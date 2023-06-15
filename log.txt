@@ -1,62 +1,42 @@
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 54<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 88<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 74<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 27<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 81<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 78<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 80<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 9<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 40<=>91
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 74<=>88
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 27<=>88
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 81<=>88
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 78<=>88
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 80<=>88
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 9<=>88
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 40<=>88
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 27<=>74
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 78<=>81
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 80<=>81
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 9<=>81
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 40<=>81
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 27<=>54
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 9<=>80
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 40<=>80
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 9<=>78
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 40<=>78
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 9<=>74
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 40<=>74
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 9<=>54
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 40<=>54
-июн. 15, 2023 8:17:10 PM Lesson2.HW2 bobbleArr
-INFO: 9<=>27
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 12<=>86
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 25<=>86
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 22<=>86
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 29<=>92
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 4<=>92
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 80<=>92
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 33<=>92
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 12<=>28
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 25<=>28
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 22<=>28
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 29<=>86
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 4<=>86
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 80<=>86
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 33<=>86
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 22<=>25
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 4<=>29
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 33<=>80
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 4<=>28
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 4<=>25
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 4<=>22
+июн. 15, 2023 8:37:49 PM Lesson2.HW2 bobbleArr
+INFO: 4<=>12

@@ -11,7 +11,7 @@ public class sem4 {
 //            Вариант 1 (простой)
         public static void main(String[] args) {
             // Читаем выражение из файла input.txt
-            String inputString = getDataFromFile("C:\\Users\\ovash\\Downloads\\JAVA\\Seminar1\\input.txt");
+            String inputString = getDataFromFile("D:\\программирование\\мама\\java_projects\\input.txt");
             System.out.println("Given the equation: " + inputString);
             // Вывод результата
             System.out.println(getSolution(inputString));
