@@ -14,21 +14,25 @@ abstract class Animals {
         this.animalAge = animalAge;
         this.animalColor = animalColor;
     }
+    
 
     public Animals(String aminalName, int animalAge) {
-        this.aminalName = aminalName;
-        this.animalAge = animalAge;
-        this.animalColor = "Black";
+        this(aminalName, animalAge, "Black");
+//        this.aminalName = aminalName;
+//        this.animalAge = animalAge;
+//        this.animalColor = "Black";
     }
     public Animals(String aminalName) {
-        this.aminalName = aminalName;
-        this.animalAge = -1;
-        this.animalColor = "White";
+        this(aminalName, -1, "White");
+//        this.aminalName = aminalName;
+//        this.animalAge = -1;
+//        this.animalColor = "White";
     }
     public Animals() {
-        this.aminalName = "NoName";
-        this.animalAge = -1;
-        this.animalColor = "Black&White";
+        this("NoName", -1, "Black&White");
+//        this.aminalName = "NoName";
+//        this.animalAge = -1;
+//        this.animalColor = "Black&White";
     }
 
     public void setAminalName(String aminalName) {
