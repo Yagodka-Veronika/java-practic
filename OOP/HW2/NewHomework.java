@@ -53,15 +53,23 @@ public class NewHomework {
         public void showIndicator(Object object) {
             if (object instanceof Health) {
                 Health healthObject = (Health) object;
-                System.out.println(ANSI_RED + "Текущий уровень здоровья: " + healthObject.getCurrentHealthPoint() + ANSI_RESET + ANSI_GREEN + "  максимальный уровень здоровья: " + healthObject.getMaxHealthPoint()+ ANSI_RESET);
+                System.out.println(getColor(healthObject.getCurrentHealthPoint()) + "Текущий уровень здоровья: " + healthObject.getCurrentHealthPoint() + ANSI_RESET + getColor(healthObject.getMaxHealthPoint()) + ",  максимальный уровень здоровья: " + healthObject.getMaxHealthPoint() + ANSI_RESET);
             }
             if (object instanceof Mana) {
                 Mana energyObject = (Mana) object;
-                System.out.println(ANSI_YELLOW + "Текущий уровень энергии: " + energyObject.getCurrentManaPoint() + ANSI_RESET + ANSI_GREEN + ", максимальный уровень энергии: " + energyObject.getMaxManaPoint()+ ANSI_RESET);
+                System.out.println(getColor(energyObject.getCurrentManaPoint())+ "Текущий уровень энергии: " + energyObject.getCurrentManaPoint() + ANSI_RESET + getColor(energyObject.getMaxManaPoint()) + ", максимальный уровень энергии: " + energyObject.getMaxManaPoint() + ANSI_RESET);
             }
 
         }
 
+        private String getColor(int res) {
+            String color = ANSI_GREEN;
+            if (res < 75) color = ANSI_CYAN ;
+            if (res < 50) color = ANSI_YELLOW ;
+            if (res < 25) color = ANSI_RED;
+            return color;
+
+        }
     }
 
 
