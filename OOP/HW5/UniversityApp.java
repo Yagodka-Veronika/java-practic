@@ -28,16 +28,6 @@ public class UniversityApp {
     private static TeacherService teacherService = new TeacherService(teacherRepository);
     private static TeacherController teacherController = new TeacherController(teacherService);
 
-
-//    public static void main(String[] args) {
-//
-//        //чтобы пользователь получал по api какие-то данные:
-//        StudentView studentView = getStudentView(); // Создаем studentView (приложение) через присвоение
-//        // методу getStudentController() (Alt + Enter - create metod),
-//        // который реализован ниже (ч-з цепочку присвовений от репы до вложения контроллера в new StudentView)
-//        TeacherView teacherView = getTeacherView();
-//        GroupView groupView = getGroupView();
-//    public static void main(String[] args) {
     public void run(){
 
         StudentView view = getStudentController();
